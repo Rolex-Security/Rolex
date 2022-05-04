@@ -1,0 +1,16 @@
+{
+  "name": "rolex-bot",
+  "version": "1.0.0",
+  "description": "Rolex is a Antinuke focused bot",
+  "main": "index.js",
+
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Faiyaz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.0-dev.1650931749-df64d3e"
+  }
+}
